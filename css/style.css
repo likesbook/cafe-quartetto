@@ -7,8 +7,9 @@ html {
   font-size: 100%;
 }
 body {
-  font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体",
-    "ヒラギノ角ゴ Pro W3", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Yu Gothic Medium",
+    "游ゴシック Medium", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+
   line-height: 1.7;
   color: #432;
   padding-top: 80px;
